@@ -15,7 +15,7 @@ exports.default = {
     dbName: 'fullstackgraphql',
     type: 'postgresql',
     debug: !constants_1.__prod__,
-    user: 'postgres',
-    password: 'postgres'
+    user: 'test',
+    password: 'test'
 };
 //# sourceMappingURL=mikro-orm.config.js.map

@@ -12,6 +12,6 @@ export default {
     dbName: 'fullstackgraphql',
     type: 'postgresql',
     debug: !__prod__,
-    user: 'postgres',
-    password: 'postgres'
+    user: 'test',
+    password: 'test'
 } as Parameters<typeof MikroORM.init>[0];
